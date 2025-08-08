@@ -1,0 +1,19 @@
+
+> pathface-frontend@1.0.0 dev
+> vite
+
+Port 3000 is in use, trying another one...
+Port 3001 is in use, trying another one...
+Port 3002 is in use, trying another one...
+
+ 11:33:58 AM [vite] vite.config.js changed, restarting server...
+✘ [ERROR] Expected ";" but found ":"
+
+    vite.config.js:3:12:
+      3 │   strictP✘ [ERROR] Expected ";" but found ":"
+
+    vite.config.js:3:12failed to load config from /data/data/com.tfailed to load config from /data/data/com.termux/files/home/pathface/frontend/vite.config.js
+11:33:58 AM [vite] Build failed with 1 error:
+vite.config.js:3:12: ERROR: Expected ";" but found ":"
+e] Build failed with 1 error:
+vite.config.js:3:12: ERROR: Expected ";" but found ":"
