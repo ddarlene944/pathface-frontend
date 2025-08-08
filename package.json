@@ -11,10 +11,10 @@
     "esbuild-wasm": "^0.25.8"
   },
   "dependencies": {
-    "@vitejs/plugin-vue": "^2.3.4",
-    "esbuild": "^0.17.19",
+    "@vitejs/plugin-vue": "^6.0.1",
+    "esbuild": "^0.25.8",
     "react-scripts": "^5.0.1",
-    "vite": "^2.9.18",
+    "vite": "^7.1.1",
     "vue": "^3.2.47",
     "webpack": "^5.101.0"
   }
